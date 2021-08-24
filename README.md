@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ftort813
+- 👋 Hi, I’m @ftort813 - Fred Tort
 - 👀 I’m interested in recruiting and hiring, diversity and inclusion
 - 🌱 I’m currently learning French
 - 💞️ I’m looking to collaborate on any opportunities to network with strong technical people of all backgrounds
